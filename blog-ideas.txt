@@ -1,0 +1,15 @@
+React proxy instead of reverse proxy
+Ansible to automate laptop/desktop
+dockerized nginx reverse proxy
+wikipedia links shortest path
+Facade-Service Pattern
+React recursive component
+github CI and secrets
+GCP Service Account
+hosting website and DNS
+Home VPN
+NodeJS automated jobs
+Kubernetes cron jobs
+Reactor Handler and Routing
+Custom Actuator Health Checks
+Automated Deployment FE
